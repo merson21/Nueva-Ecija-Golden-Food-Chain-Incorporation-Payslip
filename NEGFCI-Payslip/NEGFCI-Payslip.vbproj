@@ -1,0 +1,333 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="12.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{02ECC4EA-3680-4635-89A5-B3F1BE01AD1B}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <StartupObject>NEGFCI_Payslip.My.MyApplication</StartupObject>
+    <RootNamespace>NEGFCI_Payslip</RootNamespace>
+    <AssemblyName>NEGFCI-Payslip</AssemblyName>
+    <FileAlignment>512</FileAlignment>
+    <MyType>WindowsForms</MyType>
+    <TargetFrameworkVersion>v4.5</TargetFrameworkVersion>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <DefineDebug>true</DefineDebug>
+    <DefineTrace>true</DefineTrace>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DocumentationFile>NEGFCI-Payslip.xml</DocumentationFile>
+    <NoWarn>42016,41999,42017,42018,42019,42032,42036,42020,42021,42022</NoWarn>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <DefineDebug>false</DefineDebug>
+    <DefineTrace>true</DefineTrace>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DocumentationFile>NEGFCI-Payslip.xml</DocumentationFile>
+    <NoWarn>42016,41999,42017,42018,42019,42032,42036,42020,42021,42022</NoWarn>
+  </PropertyGroup>
+  <PropertyGroup>
+    <OptionExplicit>On</OptionExplicit>
+  </PropertyGroup>
+  <PropertyGroup>
+    <OptionCompare>Binary</OptionCompare>
+  </PropertyGroup>
+  <PropertyGroup>
+    <OptionStrict>Off</OptionStrict>
+  </PropertyGroup>
+  <PropertyGroup>
+    <OptionInfer>On</OptionInfer>
+  </PropertyGroup>
+  <PropertyGroup>
+    <ApplicationIcon>ICON.ico</ApplicationIcon>
+  </PropertyGroup>
+  <PropertyGroup>
+    <ApplicationManifest>app.manifest</ApplicationManifest>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="Bunifu_UI_v1.52">
+      <HintPath>..\..\..\..\VB.NET\bosch\JollyCarsServiceSystem123456\JollyCarsServiceSystem\bin\Debug\Bunifu_UI_v1.52.dll</HintPath>
+    </Reference>
+    <Reference Include="CrystalDecisions.CrystalReports.Engine, Version=13.0.4000.0, Culture=neutral, PublicKeyToken=692fbea5521e1304, processorArchitecture=MSIL" />
+    <Reference Include="CrystalDecisions.ReportSource, Version=13.0.4000.0, Culture=neutral, PublicKeyToken=692fbea5521e1304, processorArchitecture=MSIL" />
+    <Reference Include="CrystalDecisions.Shared, Version=13.0.4000.0, Culture=neutral, PublicKeyToken=692fbea5521e1304, processorArchitecture=MSIL" />
+    <Reference Include="CrystalDecisions.Windows.Forms, Version=13.0.4000.0, Culture=neutral, PublicKeyToken=692fbea5521e1304, processorArchitecture=MSIL" />
+    <Reference Include="MetroFramework">
+      <HintPath>..\..\..\..\Installers\MetroFramework.dll</HintPath>
+    </Reference>
+    <Reference Include="System" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Management" />
+    <Reference Include="System.Web.Services" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+  </ItemGroup>
+  <ItemGroup>
+    <Import Include="Microsoft.VisualBasic" />
+    <Import Include="System" />
+    <Import Include="System.Collections" />
+    <Import Include="System.Collections.Generic" />
+    <Import Include="System.Data" />
+    <Import Include="System.Drawing" />
+    <Import Include="System.Diagnostics" />
+    <Import Include="System.Windows.Forms" />
+    <Import Include="System.Linq" />
+    <Import Include="System.Xml.Linq" />
+    <Import Include="System.Threading.Tasks" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="DBConn.vb" />
+    <Compile Include="frmabout.Designer.vb">
+      <DependentUpon>frmabout.vb</DependentUpon>
+    </Compile>
+    <Compile Include="frmabout.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmBackup.Designer.vb">
+      <DependentUpon>frmBackup.vb</DependentUpon>
+    </Compile>
+    <Compile Include="frmBackup.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmDeduction.Designer.vb">
+      <DependentUpon>frmDeduction.vb</DependentUpon>
+    </Compile>
+    <Compile Include="frmDeduction.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmDepartment.Designer.vb">
+      <DependentUpon>frmDepartment.vb</DependentUpon>
+    </Compile>
+    <Compile Include="frmDepartment.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmEmployee.Designer.vb">
+      <DependentUpon>frmEmployee.vb</DependentUpon>
+    </Compile>
+    <Compile Include="frmEmployee.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmGenerate.Designer.vb">
+      <DependentUpon>frmGenerate.vb</DependentUpon>
+    </Compile>
+    <Compile Include="frmGenerate.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmIncentive.Designer.vb">
+      <DependentUpon>frmIncentive.vb</DependentUpon>
+    </Compile>
+    <Compile Include="frmIncentive.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmloading.Designer.vb">
+      <DependentUpon>frmloading.vb</DependentUpon>
+    </Compile>
+    <Compile Include="frmloading.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmLogin.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmLogin.Designer.vb">
+      <DependentUpon>frmLogin.vb</DependentUpon>
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmMain.Designer.vb">
+      <DependentUpon>frmMain.vb</DependentUpon>
+    </Compile>
+    <Compile Include="frmMain.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmModal.Designer.vb">
+      <DependentUpon>frmModal.vb</DependentUpon>
+    </Compile>
+    <Compile Include="frmModal.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmPaySlip.Designer.vb">
+      <DependentUpon>frmPaySlip.vb</DependentUpon>
+    </Compile>
+    <Compile Include="frmPaySlip.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmPosition.Designer.vb">
+      <DependentUpon>frmPosition.vb</DependentUpon>
+    </Compile>
+    <Compile Include="frmPosition.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmPrint.Designer.vb">
+      <DependentUpon>frmPrint.vb</DependentUpon>
+    </Compile>
+    <Compile Include="frmPrint.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmUser.Designer.vb">
+      <DependentUpon>frmUser.vb</DependentUpon>
+    </Compile>
+    <Compile Include="frmUser.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="ModalCon.vb" />
+    <Compile Include="My Project\AssemblyInfo.vb" />
+    <Compile Include="My Project\Application.Designer.vb">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Application.myapp</DependentUpon>
+    </Compile>
+    <Compile Include="My Project\Resources.Designer.vb">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>Resources.resx</DependentUpon>
+    </Compile>
+    <Compile Include="My Project\Settings.Designer.vb">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+    <Compile Include="REPORT\myDatabase.Designer.vb">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>myDatabase.xsd</DependentUpon>
+    </Compile>
+    <Compile Include="REPORT\myDatabase.vb">
+      <DependentUpon>myDatabase.xsd</DependentUpon>
+    </Compile>
+    <Compile Include="REPORT\printDeduction.vb">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>printDeduction.rpt</DependentUpon>
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="REPORT\printIncentive.vb">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>printIncentive.rpt</DependentUpon>
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="REPORT\printPaySlip.vb">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>printPaySlip.rpt</DependentUpon>
+      <SubType>Component</SubType>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <EmbeddedResource Include="frmabout.resx">
+      <DependentUpon>frmabout.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmBackup.resx">
+      <DependentUpon>frmBackup.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmDeduction.resx">
+      <DependentUpon>frmDeduction.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmDepartment.resx">
+      <DependentUpon>frmDepartment.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmEmployee.resx">
+      <DependentUpon>frmEmployee.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmGenerate.resx">
+      <DependentUpon>frmGenerate.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmIncentive.resx">
+      <DependentUpon>frmIncentive.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmloading.resx">
+      <DependentUpon>frmloading.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmLogin.resx">
+      <DependentUpon>frmLogin.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmMain.resx">
+      <DependentUpon>frmMain.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmModal.resx">
+      <DependentUpon>frmModal.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmPaySlip.resx">
+      <DependentUpon>frmPaySlip.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmPosition.resx">
+      <DependentUpon>frmPosition.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmPrint.resx">
+      <DependentUpon>frmPrint.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmUser.resx">
+      <DependentUpon>frmUser.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="My Project\Resources.resx">
+      <Generator>VbMyResourcesResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.vb</LastGenOutput>
+      <CustomToolNamespace>My.Resources</CustomToolNamespace>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="REPORT\printDeduction.rpt">
+      <Generator>CrystalDecisions.VSDesigner.CodeGen.ReportCodeGenerator</Generator>
+      <LastGenOutput>printDeduction.vb</LastGenOutput>
+    </EmbeddedResource>
+    <EmbeddedResource Include="REPORT\printIncentive.rpt">
+      <Generator>CrystalDecisions.VSDesigner.CodeGen.ReportCodeGenerator</Generator>
+      <LastGenOutput>printIncentive.vb</LastGenOutput>
+    </EmbeddedResource>
+    <EmbeddedResource Include="REPORT\printPaySlip.rpt">
+      <Generator>CrystalDecisions.VSDesigner.CodeGen.ReportCodeGenerator</Generator>
+      <LastGenOutput>printPaySlip.vb</LastGenOutput>
+    </EmbeddedResource>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="app.manifest" />
+    <None Include="My Project\Application.myapp">
+      <Generator>MyApplicationCodeGenerator</Generator>
+      <LastGenOutput>Application.Designer.vb</LastGenOutput>
+    </None>
+    <None Include="My Project\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <CustomToolNamespace>My</CustomToolNamespace>
+      <LastGenOutput>Settings.Designer.vb</LastGenOutput>
+    </None>
+    <None Include="App.config" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="REPORT\myDatabase.xsc">
+      <DependentUpon>myDatabase.xsd</DependentUpon>
+    </None>
+    <None Include="REPORT\myDatabase.xsd">
+      <SubType>Designer</SubType>
+      <Generator>MSDataSetGenerator</Generator>
+      <LastGenOutput>myDatabase.Designer.vb</LastGenOutput>
+    </None>
+    <None Include="REPORT\myDatabase.xss">
+      <DependentUpon>myDatabase.xsd</DependentUpon>
+    </None>
+    <None Include="Resources\NO IMAGE AVAILABLE 2.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <Service Include="{C0C07587-41A7-46C8-8FBD-3F9C8EBE2DDC}" />
+  </ItemGroup>
+  <ItemGroup>
+    <Content Include="1200px-Dunkin%27_Donuts_logo.svg.ico" />
+    <Content Include="ICON.ico" />
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.VisualBasic.targets" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>

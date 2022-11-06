@@ -1,0 +1,64 @@
+D:\Fourth Year ( Second Semester )\OJT\NEGFCI-Payslip\NEGFCI-Payslip\bin\Debug\NEGFCI-Payslip.exe.config
+D:\Fourth Year ( Second Semester )\OJT\NEGFCI-Payslip\NEGFCI-Payslip\bin\Debug\NEGFCI-Payslip.exe
+D:\Fourth Year ( Second Semester )\OJT\NEGFCI-Payslip\NEGFCI-Payslip\bin\Debug\NEGFCI-Payslip.pdb
+D:\Fourth Year ( Second Semester )\OJT\NEGFCI-Payslip\NEGFCI-Payslip\bin\Debug\NEGFCI-Payslip.xml
+D:\Fourth Year ( Second Semester )\OJT\NEGFCI-Payslip\NEGFCI-Payslip\obj\Debug\NEGFCI_Payslip.Resources.resources
+D:\Fourth Year ( Second Semester )\OJT\NEGFCI-Payslip\NEGFCI-Payslip\obj\Debug\NEGFCI-Payslip.vbproj.GenerateResource.Cache
+D:\Fourth Year ( Second Semester )\OJT\NEGFCI-Payslip\NEGFCI-Payslip\obj\Debug\NEGFCI-Payslip.exe
+D:\Fourth Year ( Second Semester )\OJT\NEGFCI-Payslip\NEGFCI-Payslip\obj\Debug\NEGFCI-Payslip.xml
+D:\Fourth Year ( Second Semester )\OJT\NEGFCI-Payslip\NEGFCI-Payslip\obj\Debug\NEGFCI-Payslip.pdb
+D:\Fourth Year ( Second Semester )\OJT\NEGFCI-Payslip\NEGFCI-Payslip\obj\Debug\NEGFCI_Payslip.frmLogin.resources
+D:\Fourth Year ( Second Semester )\OJT\NEGFCI-Payslip\NEGFCI-Payslip\obj\Debug\NEGFCI_Payslip.frmMain.resources
+D:\Fourth Year ( Second Semester )\OJT\NEGFCI-Payslip\NEGFCI-Payslip\bin\Debug\Bunifu_UI_v1.52.dll
+D:\Fourth Year ( Second Semester )\OJT\NEGFCI-Payslip\NEGFCI-Payslip\obj\Debug\NEGFCI_Payslip.frmEmployee.resources
+D:\Fourth Year ( Second Semester )\OJT\NEGFCI-Payslip\NEGFCI-Payslip\obj\Debug\NEGFCI-Payslip.vbprojResolveAssemblyReference.cache
+F:\NEGFCI-Payslip\NEGFCI-Payslip\bin\Debug\NEGFCI-Payslip.exe.config
+F:\NEGFCI-Payslip\NEGFCI-Payslip\obj\Debug\NEGFCI-Payslip.exe
+F:\NEGFCI-Payslip\NEGFCI-Payslip\obj\Debug\NEGFCI-Payslip.xml
+F:\NEGFCI-Payslip\NEGFCI-Payslip\obj\Debug\NEGFCI-Payslip.pdb
+F:\NEGFCI-Payslip\NEGFCI-Payslip\bin\Debug\NEGFCI-Payslip.exe
+F:\NEGFCI-Payslip\NEGFCI-Payslip\bin\Debug\NEGFCI-Payslip.pdb
+F:\NEGFCI-Payslip\NEGFCI-Payslip\bin\Debug\NEGFCI-Payslip.xml
+F:\NEGFCI-Payslip\NEGFCI-Payslip\obj\Debug\NEGFCI-Payslip.vbprojResolveAssemblyReference.cache
+F:\NEGFCI-Payslip\NEGFCI-Payslip\obj\Debug\NEGFCI_Payslip.frmEmployee.resources
+F:\NEGFCI-Payslip\NEGFCI-Payslip\obj\Debug\NEGFCI_Payslip.frmLogin.resources
+F:\NEGFCI-Payslip\NEGFCI-Payslip\obj\Debug\NEGFCI_Payslip.frmMain.resources
+F:\NEGFCI-Payslip\NEGFCI-Payslip\obj\Debug\NEGFCI_Payslip.Resources.resources
+F:\NEGFCI-Payslip\NEGFCI-Payslip\obj\Debug\NEGFCI-Payslip.vbproj.GenerateResource.Cache
+C:\Users\Merson\Desktop\VB.NET\NEGFCI-Payslip\NEGFCI-Payslip\bin\Debug\NEGFCI-Payslip.exe.config
+C:\Users\Merson\Desktop\VB.NET\NEGFCI-Payslip\NEGFCI-Payslip\obj\Debug\NEGFCI-Payslip.exe
+C:\Users\Merson\Desktop\VB.NET\NEGFCI-Payslip\NEGFCI-Payslip\obj\Debug\NEGFCI-Payslip.xml
+C:\Users\Merson\Desktop\VB.NET\NEGFCI-Payslip\NEGFCI-Payslip\obj\Debug\NEGFCI-Payslip.pdb
+C:\Users\Merson\Desktop\VB.NET\NEGFCI-Payslip\NEGFCI-Payslip\bin\Debug\NEGFCI-Payslip.exe
+C:\Users\Merson\Desktop\VB.NET\NEGFCI-Payslip\NEGFCI-Payslip\bin\Debug\NEGFCI-Payslip.pdb
+C:\Users\Merson\Desktop\VB.NET\NEGFCI-Payslip\NEGFCI-Payslip\bin\Debug\NEGFCI-Payslip.xml
+C:\Users\Merson\Desktop\VB.NET\NEGFCI-Payslip\NEGFCI-Payslip\obj\Debug\NEGFCI-Payslip.vbprojResolveAssemblyReference.cache
+C:\Users\Merson\Desktop\VB.NET\NEGFCI-Payslip\NEGFCI-Payslip\obj\Debug\NEGFCI_Payslip.frmEmployee.resources
+C:\Users\Merson\Desktop\VB.NET\NEGFCI-Payslip\NEGFCI-Payslip\obj\Debug\NEGFCI_Payslip.frmLogin.resources
+C:\Users\Merson\Desktop\VB.NET\NEGFCI-Payslip\NEGFCI-Payslip\obj\Debug\NEGFCI_Payslip.frmMain.resources
+C:\Users\Merson\Desktop\VB.NET\NEGFCI-Payslip\NEGFCI-Payslip\obj\Debug\NEGFCI_Payslip.Resources.resources
+C:\Users\Merson\Desktop\VB.NET\NEGFCI-Payslip\NEGFCI-Payslip\obj\Debug\NEGFCI-Payslip.vbproj.GenerateResource.Cache
+C:\Users\Merson\Desktop\VB.NET\RONELLL PROJECT\NEGFCI-Payslip\NEGFCI-Payslip\bin\Debug\NEGFCI-Payslip.exe.config
+C:\Users\Merson\Desktop\VB.NET\RONELLL PROJECT\NEGFCI-Payslip\NEGFCI-Payslip\obj\Debug\NEGFCI-Payslip.exe
+C:\Users\Merson\Desktop\VB.NET\RONELLL PROJECT\NEGFCI-Payslip\NEGFCI-Payslip\obj\Debug\NEGFCI-Payslip.xml
+C:\Users\Merson\Desktop\VB.NET\RONELLL PROJECT\NEGFCI-Payslip\NEGFCI-Payslip\obj\Debug\NEGFCI-Payslip.pdb
+C:\Users\Merson\Desktop\VB.NET\RONELLL PROJECT\NEGFCI-Payslip\NEGFCI-Payslip\bin\Debug\NEGFCI-Payslip.exe
+C:\Users\Merson\Desktop\VB.NET\RONELLL PROJECT\NEGFCI-Payslip\NEGFCI-Payslip\bin\Debug\NEGFCI-Payslip.pdb
+C:\Users\Merson\Desktop\VB.NET\RONELLL PROJECT\NEGFCI-Payslip\NEGFCI-Payslip\bin\Debug\NEGFCI-Payslip.xml
+C:\Users\Merson\Desktop\VB.NET\RONELLL PROJECT\NEGFCI-Payslip\NEGFCI-Payslip\obj\Debug\NEGFCI_Payslip.frmEmployee.resources
+C:\Users\Merson\Desktop\VB.NET\RONELLL PROJECT\NEGFCI-Payslip\NEGFCI-Payslip\obj\Debug\NEGFCI_Payslip.frmloading.resources
+C:\Users\Merson\Desktop\VB.NET\RONELLL PROJECT\NEGFCI-Payslip\NEGFCI-Payslip\obj\Debug\NEGFCI_Payslip.frmLogin.resources
+C:\Users\Merson\Desktop\VB.NET\RONELLL PROJECT\NEGFCI-Payslip\NEGFCI-Payslip\obj\Debug\NEGFCI_Payslip.frmMain.resources
+C:\Users\Merson\Desktop\VB.NET\RONELLL PROJECT\NEGFCI-Payslip\NEGFCI-Payslip\obj\Debug\NEGFCI_Payslip.Resources.resources
+C:\Users\Merson\Desktop\VB.NET\RONELLL PROJECT\NEGFCI-Payslip\NEGFCI-Payslip\obj\Debug\NEGFCI-Payslip.vbproj.GenerateResource.Cache
+C:\Users\Merson\Desktop\VB.NET\RONELLL PROJECT\NEGFCI-Payslip\NEGFCI-Payslip\obj\Debug\NEGFCI_Payslip.frmabout.resources
+C:\Users\Merson\Desktop\VB.NET\RONELLL PROJECT\NEGFCI-Payslip\NEGFCI-Payslip\obj\Debug\NEGFCI_Payslip.frmDepartment.resources
+C:\Users\Merson\Desktop\VB.NET\RONELLL PROJECT\NEGFCI-Payslip\NEGFCI-Payslip\obj\Debug\NEGFCI_Payslip.frmModal.resources
+C:\Users\Merson\Desktop\VB.NET\RONELLL PROJECT\NEGFCI-Payslip\NEGFCI-Payslip\obj\Debug\NEGFCI_Payslip.frmPosition.resources
+C:\Users\Merson\Desktop\VB.NET\RONELLL PROJECT\NEGFCI-Payslip\NEGFCI-Payslip\obj\Debug\NEGFCI_Payslip.frmUser.resources
+C:\Users\Merson\Desktop\VB.NET\RONELLL PROJECT\NEGFCI-Payslip\NEGFCI-Payslip\obj\Debug\NEGFCI_Payslip.frmBackup.resources
+C:\Users\Merson\Desktop\VB.NET\RONELLL PROJECT\NEGFCI-Payslip\NEGFCI-Payslip\obj\Debug\NEGFCI_Payslip.frmDeduction.resources
+C:\Users\Merson\Desktop\VB.NET\RONELLL PROJECT\NEGFCI-Payslip\NEGFCI-Payslip\obj\Debug\NEGFCI_Payslip.frmIncentive.resources
+C:\Users\Merson\Desktop\VB.NET\RONELLL PROJECT\NEGFCI-Payslip\NEGFCI-Payslip\obj\Debug\NEGFCI_Payslip.frmGenerate.resources
+C:\Users\Merson\Desktop\VB.NET\RONELLL PROJECT\NEGFCI-Payslip\NEGFCI-Payslip\obj\Debug\NEGFCI_Payslip.frmPaySlip.resources
+C:\Users\Merson\Desktop\VB.NET\RONELLL PROJECT\NEGFCI-Payslip\NEGFCI-Payslip\obj\Debug\NEGFCI_Payslip.frmPrint.resources
